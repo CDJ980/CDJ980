@@ -3,8 +3,11 @@
 Welcome to my GitHub profile! I’m a passionate Computer Science student with a focus on Cybersecurity, currently studying at Utah Valley University. I’m excited to share my projects, interests, and professional journey with you.
 
 🎓 About Me
+
 👨‍🎓 Degree: Bachelor of Science in Computer Science with an emphasis in Cybersecurity
+
 🎓 University: Utah Valley University (Expected Graduation: May 2025)
+
 🏆 GPA: 3.94, Dean's Merit Scholar
 🌐 Linux Club President: President of The Linux Club – The Inner Kernel
 💼 Currently Working On
