@@ -1,5 +1,3 @@
-🌱 Cassidy Jensen
-
 Welcome to my GitHub profile! I’m excited to share my projects, interests, and professional journey with you.
 
 🎓 About Me
