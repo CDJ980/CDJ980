@@ -1,6 +1,6 @@
 🌱 Cassidy Jensen
 
-Welcome to my GitHub profile! I’m a passionate Computer Science student with a focus on Cybersecurity, currently studying at Utah Valley University. I’m excited to share my projects, interests, and professional journey with you.
+Welcome to my GitHub profile! I’m excited to share my projects, interests, and professional journey with you.
 
 🎓 About Me
 
@@ -20,13 +20,14 @@ Capstone Project: Focusing on cloud computing and cybersecurity in collaboration
 
 🛠️ Skills & Tools
 
-Languages: Python, JavaScript, SQL, Bash
+Proficient- SQL, Python, C#, JavaScript, React
 
-Web & Security Tools: Wireshark, Nessus, OpenVAS, ZAP, Splunk, Kali Linux
+Moderate- C++, C, Bash
 
-Cloud Platforms: AWS, Google Cloud, Microsoft Azure
+Beginner- Java
 
-Operating Systems: Linux (Ubuntu, Kali), Windows
+Tools: Docker, AWS, VMWare, Oracle Virtual Box, Wireshark, MATLAB, Firebase, Red Hat Enterprise Linux, Git, Excel, Google Sheets, AI, MySQL, Agile
+
 
 🌱 Learning & Goals
 
